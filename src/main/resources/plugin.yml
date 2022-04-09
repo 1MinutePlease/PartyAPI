@@ -1,0 +1,6 @@
+name: PartyAPI
+version: '${project.version}'
+main: de.paul.partyapi.Main
+api-version: 1.18
+prefix: Party
+authors: [ 1MinutePlease ]
